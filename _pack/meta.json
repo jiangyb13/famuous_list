@@ -1,0 +1,14 @@
+{
+  "format": "folderpack",
+  "version": 1,
+  "chunk_bytes": 90000,
+  "source_name": "20261102_famous",
+  "created": "2026-11-04 11:53:15",
+  "file_count": 212,
+  "dir_count": 212,
+  "total_bytes": 17285468,
+  "chunk_count": 393,
+  "manifest_parts": [
+    "manifest.0001.jsonl"
+  ]
+}
